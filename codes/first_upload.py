@@ -1,3 +1,4 @@
+#Always remember to write comments
 import os
 
 os.getcwd()
